@@ -6,7 +6,7 @@ This modern blog platform lets users read and publish articles — perfect for w
 
 <!-- Live Project Link -->
 
-🚀 **Try it now:** [Visit the Blog]("")
+🚀 **Try it now:** [Visit the Blog]("https://sparks-writers.vercel.app/")
 
 <!-- Project Screenshot -->
 
@@ -44,12 +44,12 @@ This modern blog platform lets users read and publish articles — perfect for w
 
 3. Set up environment variables
 
-   VITE_APPWRITE_URL=""
-   VITE_APPWRITE_PROJECT_ID=""
-   VITE_APPWRITE_DATABASE_ID==""
-   VITE_APPWRITE_COLLECTION_ID=""
-   VITE_APPWRITE_BUCKET_ID=""
-   VITE_TINYMCE_API_KEY=""
+   - **VITE_APPWRITE_URL=""**
+   - **VITE_APPWRITE_PROJECT_ID=""**
+   - **VITE_APPWRITE_DATABASE_ID==""**
+   - **VITE_APPWRITE_COLLECTION_ID=""**
+   - **VITE_APPWRITE_BUCKET_ID=""**
+   - **VITE_TINYMCE_API_KEY=""**
 
 4. Run the development server
    

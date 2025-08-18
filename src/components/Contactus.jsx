@@ -52,7 +52,7 @@ const Contactus = () => {
             name="name"
             value={formData.name}
             onChange={handleChange}
-            className='border-gray-300 block w-full rounded-md py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500 dark:border-white/5 dark:bg-slate-700/50 dark:text-white'
+            className='w-full p-2 mb-6 text-indigo-700 border-2 border-indigo-500 outline-none focus:bg-gray-300'
           />
         </div>
 
@@ -63,7 +63,7 @@ const Contactus = () => {
             name="email"
             value={formData.email}
             onChange={handleChange}
-            className='border-gray-300 block w-full rounded-md py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500 dark:border-white/5 dark:bg-slate-700/50 dark:text-white'
+            className='w-full p-2 mb-6 text-indigo-700 border-2 border-indigo-500 outline-none focus:bg-gray-300'
           />
         </div>
 
@@ -74,7 +74,7 @@ const Contactus = () => {
             rows="5"
             value={formData.message}
             onChange={handleChange}
-            className='border-gray-300 block w-full rounded-md py-3 px-4 shadow-sm focus:border-sky-500 focus:ring-sky-500 dark:border-white/5 dark:bg-slate-700/50 dark:text-white'
+            className='w-full p-2 mb-6 text-indigo-700 border-2 border-indigo-500 outline-none focus:bg-gray-300'
           />
         </div>
 
