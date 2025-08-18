@@ -6,7 +6,7 @@ This modern blog platform lets users read and publish articles — perfect for w
 
 <!-- Live Project Link -->
 
-🚀 **Try it now:** [Write your thoughts!]("https://sparks-writers.vercel.app/")
+🚀 **Try it now:** [Write your thoughts!](https://sparks-writers.vercel.app/)
 
 <!-- Project Screenshot -->
 
