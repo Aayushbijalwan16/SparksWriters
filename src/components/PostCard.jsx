@@ -15,7 +15,7 @@ function PostCard({ $id, title, featuredImage }) {
             className='text-xl font-bold'
             >{title}</h2>
         </div> */}
-      <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl px-8 pb-8 pt-40 max-w-sm mx-auto mt-24">
+      <article className="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl px-8 pb-8 pt-40 max-w-sm mx-auto mt-24">
         <img
           src={appwriteService.getFilePreview(featuredImage)}
           alt={title}

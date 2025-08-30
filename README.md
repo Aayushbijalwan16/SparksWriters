@@ -35,12 +35,12 @@ This modern blog platform lets users read and publish articles — perfect for w
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/blog-website.git
+   git clone https://github.com/aayushbijalwan16/SparksWriters.git
    cd blog-website
 
 2. Install dependencies
    ```bash
-    npm install      # or yarn
+    npm install
 
 3. Set up environment variables
 

@@ -37,7 +37,7 @@ const Contactus = () => {
 
   return (
     <div style={{ padding: '2rem', maxWidth: '600px', margin: 'auto' }}>
-      <div className='bg-white rounded-2xl shadow-xl p-8'>
+      <div className='bg-indigo-100 rounded-2xl shadow-xl p-8'>
       <h1 className='text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl'>Contact Us</h1>
       <p className='mt-4 text-lg leading-6 text-gray-500'>Have a question or want to get in touch? We’d love to hear from you.</p>
 
